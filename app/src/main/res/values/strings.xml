@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Bottom Sheet Dialog</string>
+    <string name="share">Share</string>
+    <string name="subscribe_on_my_channel">Subscribe on my channel</string>
+    <string name="nurkholiq_agani_hafid">Nurkholiq Agani Hafid</string>
+    <string name="subscribed">SUBSCRIBED</string>
+    <string name="share_channel">Share Channel</string>
+    <string name="aktifkan_notifikasi">Aktifkan Notifikasi</string>
+    <string name="btn_share_channel">Share Channel</string>
+    <string name="btn_share">Share</string>
 </resources>
